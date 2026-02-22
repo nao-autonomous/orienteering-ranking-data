@@ -1,0 +1,15 @@
+{
+  "updatedAt": "2026-02-23T00:25:00",
+  "files": {
+    "foot_m": "iof_foot_m_2026-02-23.json",
+    "foot_w": "iof_foot_w_2026-02-23.json",
+    "sprint_m": "iof_sprint_m_2026-02-23.json",
+    "sprint_w": "iof_sprint_w_2026-02-23.json"
+  },
+  "counts": {
+    "foot_m": 3409,
+    "foot_w": 2013,
+    "sprint_m": 2906,
+    "sprint_w": 1936
+  }
+}
