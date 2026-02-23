@@ -2,11 +2,15 @@
   "latestDate": "2026-02-23",
   "dates": {
     "2026-02-23": {
-      "updatedAt": "2026-02-23T00:25:00",
-      "foot_m": { "file": "iof_foot_m_2026-02-23.json", "count": 3409 },
-      "foot_w": { "file": "iof_foot_w_2026-02-23.json", "count": 2013 },
-      "sprint_m": { "file": "iof_sprint_m_2026-02-23.json", "count": 2906 },
-      "sprint_w": { "file": "iof_sprint_w_2026-02-23.json", "count": 1936 }
+      "updatedAt": "2026-02-23T11:30:00",
+      "iof_foot_m": { "file": "iof_foot_m_2026-02-23.json", "count": 3409 },
+      "iof_foot_w": { "file": "iof_foot_w_2026-02-23.json", "count": 2013 },
+      "iof_sprint_m": { "file": "iof_sprint_m_2026-02-23.json", "count": 2906 },
+      "iof_sprint_w": { "file": "iof_sprint_w_2026-02-23.json", "count": 1936 },
+      "joa_foot_m": { "file": "joa_foot_m_2026-02-21.json", "count": 1385 },
+      "joa_foot_w": { "file": "joa_foot_w_2026-02-21.json", "count": 352 },
+      "joa_sprint_m": { "file": "joa_sprint_m_2026-02-21.json", "count": 1269 },
+      "joa_sprint_w": { "file": "joa_sprint_w_2026-02-21.json", "count": 325 }
     }
   }
 }
