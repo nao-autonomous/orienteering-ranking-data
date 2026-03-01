@@ -1,0 +1,2284 @@
+{
+  "source": "JOA",
+  "discipline": "Sprint",
+  "gender": "W",
+  "date": "2026-03-01",
+  "fetchedAt": "2026-03-01T12:14:01",
+  "athletes": [
+    {
+      "rank": 1,
+      "name": "近藤花保",
+      "nameJa": "近藤花保",
+      "club": "OLCルーパー",
+      "points": 6177.3
+    },
+    {
+      "rank": 2,
+      "name": "桑原唯歩",
+      "nameJa": "桑原唯歩",
+      "club": "静岡OLC",
+      "points": 5892.5
+    },
+    {
+      "rank": 3,
+      "name": "稲毛日菜子",
+      "nameJa": "稲毛日菜子",
+      "club": "練馬OLC",
+      "points": 5885.3
+    },
+    {
+      "rank": 4,
+      "name": "松本萌恵",
+      "nameJa": "松本萌恵",
+      "club": "OLP兵庫",
+      "points": 5851.1
+    },
+    {
+      "rank": 5,
+      "name": "増澤すず",
+      "nameJa": "増澤すず",
+      "club": "Moxina OK",
+      "points": 5772.0
+    },
+    {
+      "rank": 6,
+      "name": "山崎葵",
+      "nameJa": "山崎葵",
+      "club": "筑波大学",
+      "points": 5750.1
+    },
+    {
+      "rank": 7,
+      "name": "小野塚智美",
+      "nameJa": "小野塚智美",
+      "club": "筑波大学",
+      "points": 5738.4
+    },
+    {
+      "rank": 8,
+      "name": "柴崎愛有",
+      "nameJa": "柴崎愛有",
+      "club": "練馬OLC",
+      "points": 5723.6
+    },
+    {
+      "rank": 9,
+      "name": "阿部悠",
+      "nameJa": "阿部悠",
+      "club": "ES関東C",
+      "points": 5707.7
+    },
+    {
+      "rank": 10,
+      "name": "中舘美卯",
+      "nameJa": "中舘美卯",
+      "club": "KOLC",
+      "points": 5694.9
+    },
+    {
+      "rank": 11,
+      "name": "松尾晴乃",
+      "nameJa": "松尾晴乃",
+      "club": "OLP兵庫",
+      "points": 5693.6
+    },
+    {
+      "rank": 12,
+      "name": "川瀬智尋",
+      "nameJa": "川瀬智尋",
+      "club": "奈良女OLC/OLP兵庫",
+      "points": 5687.0
+    },
+    {
+      "rank": 13,
+      "name": "鷲津加子",
+      "nameJa": "鷲津加子",
+      "club": "青葉会20",
+      "points": 5640.1
+    },
+    {
+      "rank": 14,
+      "name": "砂田優萌子",
+      "nameJa": "砂田優萌子",
+      "club": "東大OLK",
+      "points": 5570.0
+    },
+    {
+      "rank": 15,
+      "name": "皆川美紀子",
+      "nameJa": "皆川美紀子",
+      "club": "みちの会",
+      "points": 5568.5
+    },
+    {
+      "rank": 16,
+      "name": "黒澤香穂",
+      "nameJa": "黒澤香穂",
+      "club": "京大OLC",
+      "points": 5483.7
+    },
+    {
+      "rank": 17,
+      "name": "中西澄海",
+      "nameJa": "中西澄海",
+      "club": "東北大学",
+      "points": 5470.0
+    },
+    {
+      "rank": 18,
+      "name": "落合英那",
+      "nameJa": "落合英那",
+      "club": "京大OLC",
+      "points": 5450.8
+    },
+    {
+      "rank": 19,
+      "name": "沼田奈津",
+      "nameJa": "沼田奈津",
+      "club": "京大OLC",
+      "points": 5434.0
+    },
+    {
+      "rank": 20,
+      "name": "片岡明日香",
+      "nameJa": "片岡明日香",
+      "club": "千葉大学",
+      "points": 5419.3
+    },
+    {
+      "rank": 21,
+      "name": "中野友貴",
+      "nameJa": "中野友貴",
+      "club": "名椙OLC",
+      "points": 5418.0
+    },
+    {
+      "rank": 22,
+      "name": "杉田瑠菜",
+      "nameJa": "杉田瑠菜",
+      "club": "京大OLC",
+      "points": 5403.5
+    },
+    {
+      "rank": 23,
+      "name": "佐々木結佳",
+      "nameJa": "佐々木結佳",
+      "club": "早大OC/ES関東C",
+      "points": 5403.4
+    },
+    {
+      "rank": 24,
+      "name": "鈴木万結",
+      "nameJa": "鈴木万結",
+      "club": "早大OC",
+      "points": 5376.2
+    },
+    {
+      "rank": 25,
+      "name": "佐藤若葉",
+      "nameJa": "佐藤若葉",
+      "club": "東北大OLC",
+      "points": 5357.1
+    },
+    {
+      "rank": 26,
+      "name": "山岸沙映",
+      "nameJa": "山岸沙映",
+      "club": "神大OLK",
+      "points": 5341.6
+    },
+    {
+      "rank": 27,
+      "name": "高木優彩",
+      "nameJa": "高木優彩",
+      "club": "京女OLC",
+      "points": 5333.0
+    },
+    {
+      "rank": 28,
+      "name": "黄宜瑾",
+      "nameJa": "黄宜瑾",
+      "club": "台湾魔神",
+      "points": 5327.9
+    },
+    {
+      "rank": 29,
+      "name": "山本美沙",
+      "nameJa": "山本美沙",
+      "club": "筑波大学",
+      "points": 5317.1
+    },
+    {
+      "rank": 30,
+      "name": "小林祐子",
+      "nameJa": "小林祐子",
+      "club": "青葉会/トータス",
+      "points": 5312.6
+    },
+    {
+      "rank": 31,
+      "name": "早坂佳夏",
+      "nameJa": "早坂佳夏",
+      "club": "新潟大学2",
+      "points": 5302.1
+    },
+    {
+      "rank": 32,
+      "name": "小野萌菜",
+      "nameJa": "小野萌菜",
+      "club": "ES関東C",
+      "points": 5284.9
+    },
+    {
+      "rank": 33,
+      "name": "林明穂",
+      "nameJa": "林明穂",
+      "club": "青葉会20/ES関東C",
+      "points": 5255.8
+    },
+    {
+      "rank": 34,
+      "name": "佐塚真奈",
+      "nameJa": "佐塚真奈",
+      "club": "北海道大学",
+      "points": 5247.1
+    },
+    {
+      "rank": 35,
+      "name": "渡邉朋香",
+      "nameJa": "渡邉朋香",
+      "club": "京大OLC",
+      "points": 5237.8
+    },
+    {
+      "rank": 36,
+      "name": "牧依瑠香",
+      "nameJa": "牧依瑠香",
+      "club": "早大OC/入間市OLC",
+      "points": 5235.1
+    },
+    {
+      "rank": 37,
+      "name": "大音紗希",
+      "nameJa": "大音紗希",
+      "club": "北海道大学",
+      "points": 5230.6
+    },
+    {
+      "rank": 38,
+      "name": "兼子照実",
+      "nameJa": "兼子照実",
+      "club": "実践女子大学",
+      "points": 5203.0
+    },
+    {
+      "rank": 39,
+      "name": "山中望",
+      "nameJa": "山中望",
+      "club": "東大OLK/ES関東C",
+      "points": 5193.7
+    },
+    {
+      "rank": 40,
+      "name": "野村優衣",
+      "nameJa": "野村優衣",
+      "club": "奈良女OLC/OLP兵庫",
+      "points": 5137.1
+    },
+    {
+      "rank": 41,
+      "name": "杉野舞",
+      "nameJa": "杉野舞",
+      "club": "東北大OLC",
+      "points": 5123.0
+    },
+    {
+      "rank": 42,
+      "name": "梅村紗矢",
+      "nameJa": "梅村紗矢",
+      "club": "東北大学",
+      "points": 5088.4
+    },
+    {
+      "rank": 43,
+      "name": "西村美穂",
+      "nameJa": "西村美穂",
+      "club": "早大OC",
+      "points": 5068.4
+    },
+    {
+      "rank": 44,
+      "name": "香西彩名",
+      "nameJa": "香西彩名",
+      "club": "東北大学",
+      "points": 5052.4
+    },
+    {
+      "rank": 45,
+      "name": "田谷夏姫",
+      "nameJa": "田谷夏姫",
+      "club": "筑波大学",
+      "points": 5039.6
+    },
+    {
+      "rank": 46,
+      "name": "古谷那奈",
+      "nameJa": "古谷那奈",
+      "club": "千葉大学",
+      "points": 5032.6
+    },
+    {
+      "rank": 47,
+      "name": "小島優唯",
+      "nameJa": "小島優唯",
+      "club": "一橋大学",
+      "points": 5010.7
+    },
+    {
+      "rank": 48,
+      "name": "須藤友絵",
+      "nameJa": "須藤友絵",
+      "club": "入間市OLC",
+      "points": 5010.6
+    },
+    {
+      "rank": 49,
+      "name": "萬年環",
+      "nameJa": "萬年環",
+      "club": "東北大OLC",
+      "points": 5010.5
+    },
+    {
+      "rank": 50,
+      "name": "佐野響",
+      "nameJa": "佐野響",
+      "club": "デジタル庁/桐嶺会",
+      "points": 5008.4
+    },
+    {
+      "rank": 51,
+      "name": "冨田明花",
+      "nameJa": "冨田明花",
+      "club": "鳩の会/練馬OLC",
+      "points": 5008.2
+    },
+    {
+      "rank": 51,
+      "name": "冨田明花",
+      "nameJa": "冨田明花",
+      "club": "鳩の会/練馬OLC",
+      "points": 5008.2
+    },
+    {
+      "rank": 52,
+      "name": "荒谷萌音",
+      "nameJa": "荒谷萌音",
+      "club": "北海道大学",
+      "points": 4979.0
+    },
+    {
+      "rank": 53,
+      "name": "山添葵",
+      "nameJa": "山添葵",
+      "club": "京女OLC",
+      "points": 4973.1
+    },
+    {
+      "rank": 54,
+      "name": "堀江花歩",
+      "nameJa": "堀江花歩",
+      "club": "京大OLC",
+      "points": 4958.3
+    },
+    {
+      "rank": 55,
+      "name": "中西彩寧",
+      "nameJa": "中西彩寧",
+      "club": "京大OLC",
+      "points": 4956.2
+    },
+    {
+      "rank": 56,
+      "name": "小林美咲",
+      "nameJa": "小林美咲",
+      "club": "ES関東C/まめ",
+      "points": 4948.0
+    },
+    {
+      "rank": 57,
+      "name": "久島典子",
+      "nameJa": "久島典子",
+      "club": "京大OLC",
+      "points": 4941.9
+    },
+    {
+      "rank": 58,
+      "name": "佐藤奈穂",
+      "nameJa": "佐藤奈穂",
+      "club": "広大OLC",
+      "points": 4940.2
+    },
+    {
+      "rank": 59,
+      "name": "山本佳奈",
+      "nameJa": "山本佳奈",
+      "club": "早大OC",
+      "points": 4910.7
+    },
+    {
+      "rank": 60,
+      "name": "古荘雪羽",
+      "nameJa": "古荘雪羽",
+      "club": "KOLC",
+      "points": 4905.7
+    },
+    {
+      "rank": 61,
+      "name": "佐藤愛莉",
+      "nameJa": "佐藤愛莉",
+      "club": "北海道大学",
+      "points": 4904.5
+    },
+    {
+      "rank": 62,
+      "name": "金道志野",
+      "nameJa": "金道志野",
+      "club": "横浜OLクラブ",
+      "points": 4895.3
+    },
+    {
+      "rank": 63,
+      "name": "溝端昭子",
+      "nameJa": "溝端昭子",
+      "club": "入間市OLC",
+      "points": 4894.9
+    },
+    {
+      "rank": 64,
+      "name": "山崎有里彩",
+      "nameJa": "山崎有里彩",
+      "club": "KOLC",
+      "points": 4878.9
+    },
+    {
+      "rank": 65,
+      "name": "辻悠佳",
+      "nameJa": "辻悠佳",
+      "club": "JDOA/入間市OLC",
+      "points": 4877.6
+    },
+    {
+      "rank": 66,
+      "name": "菊池彩実",
+      "nameJa": "菊池彩実",
+      "club": "横浜市立大学 3",
+      "points": 4861.0
+    },
+    {
+      "rank": 67,
+      "name": "半田博子",
+      "nameJa": "半田博子",
+      "club": "-",
+      "points": 4850.4
+    },
+    {
+      "rank": 68,
+      "name": "徳倉朋夏",
+      "nameJa": "徳倉朋夏",
+      "club": "筑波大学",
+      "points": 4833.2
+    },
+    {
+      "rank": 69,
+      "name": "渡辺円香",
+      "nameJa": "渡辺円香",
+      "club": "ES関東C",
+      "points": 4825.1
+    },
+    {
+      "rank": 70,
+      "name": "渡部知優",
+      "nameJa": "渡部知優",
+      "club": "宮城学院女子大学",
+      "points": 4816.4
+    },
+    {
+      "rank": 71,
+      "name": "湯地晶子",
+      "nameJa": "湯地晶子",
+      "club": "東京大学",
+      "points": 4779.3
+    },
+    {
+      "rank": 72,
+      "name": "遠藤睦実",
+      "nameJa": "遠藤睦実",
+      "club": "京都女子大学 3",
+      "points": 4750.0
+    },
+    {
+      "rank": 73,
+      "name": "齋藤夢",
+      "nameJa": "齋藤夢",
+      "club": "奈良女OLC/京都OLC",
+      "points": 4742.4
+    },
+    {
+      "rank": 74,
+      "name": "中島美結",
+      "nameJa": "中島美結",
+      "club": "立命館大学3",
+      "points": 4727.6
+    },
+    {
+      "rank": 75,
+      "name": "田中志歩",
+      "nameJa": "田中志歩",
+      "club": "東大OLK",
+      "points": 4716.1
+    },
+    {
+      "rank": 76,
+      "name": "木村野乃子",
+      "nameJa": "木村野乃子",
+      "club": "北大OLC",
+      "points": 4688.1
+    },
+    {
+      "rank": 77,
+      "name": "小畑萌",
+      "nameJa": "小畑萌",
+      "club": "東大OLK",
+      "points": 4663.4
+    },
+    {
+      "rank": 78,
+      "name": "皆上直香",
+      "nameJa": "皆上直香",
+      "club": "千葉大学",
+      "points": 4643.8
+    },
+    {
+      "rank": 79,
+      "name": "木村史依",
+      "nameJa": "木村史依",
+      "club": "KOLA",
+      "points": 4640.1
+    },
+    {
+      "rank": 80,
+      "name": "諏訪美海",
+      "nameJa": "諏訪美海",
+      "club": "日本女子大学",
+      "points": 4638.2
+    },
+    {
+      "rank": 81,
+      "name": "安部紗也佳",
+      "nameJa": "安部紗也佳",
+      "club": "ES関東C",
+      "points": 4624.9
+    },
+    {
+      "rank": 82,
+      "name": "高橋民奈",
+      "nameJa": "高橋民奈",
+      "club": "茨城大学",
+      "points": 4607.7
+    },
+    {
+      "rank": 83,
+      "name": "細井美佑",
+      "nameJa": "細井美佑",
+      "club": "-",
+      "points": 4597.3
+    },
+    {
+      "rank": 84,
+      "name": "浅野涼花",
+      "nameJa": "浅野涼花",
+      "club": "名古屋大学2",
+      "points": 4597.2
+    },
+    {
+      "rank": 85,
+      "name": "齋藤梢",
+      "nameJa": "齋藤梢",
+      "club": "北大OLC",
+      "points": 4587.0
+    },
+    {
+      "rank": 86,
+      "name": "宮本知江子",
+      "nameJa": "宮本知江子",
+      "club": "京葉OLクラブ/千葉OLK",
+      "points": 4574.6
+    },
+    {
+      "rank": 87,
+      "name": "細野泉",
+      "nameJa": "細野泉",
+      "club": "入間市OLC/杏友会",
+      "points": 4561.6
+    },
+    {
+      "rank": 88,
+      "name": "森彩葉",
+      "nameJa": "森彩葉",
+      "club": "お茶の水女子大学",
+      "points": 4555.4
+    },
+    {
+      "rank": 89,
+      "name": "小泉陽菜乃",
+      "nameJa": "小泉陽菜乃",
+      "club": "横浜市立大学大学院",
+      "points": 4551.8
+    },
+    {
+      "rank": 90,
+      "name": "藤澤ゆい",
+      "nameJa": "藤澤ゆい",
+      "club": "OLP兵庫",
+      "points": 4549.4
+    },
+    {
+      "rank": 91,
+      "name": "松尾晴菜",
+      "nameJa": "松尾晴菜",
+      "club": "茨城大学",
+      "points": 4504.8
+    },
+    {
+      "rank": 92,
+      "name": "渡邉陽与",
+      "nameJa": "渡邉陽与",
+      "club": "東京大学",
+      "points": 4500.8
+    },
+    {
+      "rank": 93,
+      "name": "湊菜々子",
+      "nameJa": "湊菜々子",
+      "club": "茨城大学",
+      "points": 4486.2
+    },
+    {
+      "rank": 94,
+      "name": "小寺珠穂",
+      "nameJa": "小寺珠穂",
+      "club": "-",
+      "points": 4472.1
+    },
+    {
+      "rank": 95,
+      "name": "北村綾夏",
+      "nameJa": "北村綾夏",
+      "club": "東大OLK",
+      "points": 4444.7
+    },
+    {
+      "rank": 96,
+      "name": "清谷千鶴",
+      "nameJa": "清谷千鶴",
+      "club": "横浜OLクラブ",
+      "points": 4386.4
+    },
+    {
+      "rank": 97,
+      "name": "堀池美穂",
+      "nameJa": "堀池美穂",
+      "club": "京都女子大学 3",
+      "points": 4363.3
+    },
+    {
+      "rank": 98,
+      "name": "宮川里弥",
+      "nameJa": "宮川里弥",
+      "club": "京都女子大学 2",
+      "points": 4331.6
+    },
+    {
+      "rank": 99,
+      "name": "高田麻由",
+      "nameJa": "高田麻由",
+      "club": "名椙OLC",
+      "points": 4325.2
+    },
+    {
+      "rank": 100,
+      "name": "大山凛花",
+      "nameJa": "大山凛花",
+      "club": "KOLC",
+      "points": 4321.3
+    },
+    {
+      "rank": 101,
+      "name": "高津寿三鈴",
+      "nameJa": "高津寿三鈴",
+      "club": "Club阿闍梨",
+      "points": 4198.0
+    },
+    {
+      "rank": 101,
+      "name": "高津寿三鈴",
+      "nameJa": "高津寿三鈴",
+      "club": "Club阿闍梨",
+      "points": 4198.0
+    },
+    {
+      "rank": 102,
+      "name": "市岡結",
+      "nameJa": "市岡結",
+      "club": "KOLC",
+      "points": 4131.5
+    },
+    {
+      "rank": 103,
+      "name": "小林正子",
+      "nameJa": "小林正子",
+      "club": "ES関東C",
+      "points": 4109.3
+    },
+    {
+      "rank": 104,
+      "name": "上園久美子",
+      "nameJa": "上園久美子",
+      "club": "JDOA/入間市OLC",
+      "points": 4078.6
+    },
+    {
+      "rank": 105,
+      "name": "猪股珠々那",
+      "nameJa": "猪股珠々那",
+      "club": "奈良女OLC",
+      "points": 4049.4
+    },
+    {
+      "rank": 106,
+      "name": "緒方美智",
+      "nameJa": "緒方美智",
+      "club": "奈良市",
+      "points": 4034.1
+    },
+    {
+      "rank": 107,
+      "name": "LINKUANYU",
+      "nameJa": "LINKUANYU",
+      "club": "-",
+      "points": 4024.8
+    },
+    {
+      "rank": 108,
+      "name": "羽原佑香",
+      "nameJa": "羽原佑香",
+      "club": "京都女子大学2",
+      "points": 3928.3
+    },
+    {
+      "rank": 109,
+      "name": "菊池こころ",
+      "nameJa": "菊池こころ",
+      "club": "宮城学院女子大学",
+      "points": 3885.2
+    },
+    {
+      "rank": 110,
+      "name": "多田朱里",
+      "nameJa": "多田朱里",
+      "club": "京女OLC",
+      "points": 3854.5
+    },
+    {
+      "rank": 111,
+      "name": "三宅裕子",
+      "nameJa": "三宅裕子",
+      "club": "JDOA/入間市OLC",
+      "points": 3799.0
+    },
+    {
+      "rank": 112,
+      "name": "古橋歩実",
+      "nameJa": "古橋歩実",
+      "club": "京都女子大学 2",
+      "points": 3750.2
+    },
+    {
+      "rank": 113,
+      "name": "村岡民子",
+      "nameJa": "村岡民子",
+      "club": "入間市OLC",
+      "points": 3737.4
+    },
+    {
+      "rank": 114,
+      "name": "長澤静代",
+      "nameJa": "長澤静代",
+      "club": "横浜OLクラブ/入間市OLC",
+      "points": 3729.3
+    },
+    {
+      "rank": 115,
+      "name": "樋口佳那",
+      "nameJa": "樋口佳那",
+      "club": "筑波大学院",
+      "points": 3702.6
+    },
+    {
+      "rank": 116,
+      "name": "矢板橋秋香",
+      "nameJa": "矢板橋秋香",
+      "club": "実践女子大学",
+      "points": 3653.7
+    },
+    {
+      "rank": 117,
+      "name": "長島実里",
+      "nameJa": "長島実里",
+      "club": "阪大OLC",
+      "points": 3630.7
+    },
+    {
+      "rank": 118,
+      "name": "LEUNGKAKI",
+      "nameJa": "LEUNGKAKI",
+      "club": "-",
+      "points": 3608.9
+    },
+    {
+      "rank": 119,
+      "name": "森下遥",
+      "nameJa": "森下遥",
+      "club": "京葉OLクラブ/静岡OLC",
+      "points": 3596.9
+    },
+    {
+      "rank": 120,
+      "name": "大石遥",
+      "nameJa": "大石遥",
+      "club": "静岡OLC",
+      "points": 3580.5
+    },
+    {
+      "rank": 121,
+      "name": "太田来和",
+      "nameJa": "太田来和",
+      "club": "大阪大学3",
+      "points": 3554.4
+    },
+    {
+      "rank": 122,
+      "name": "長瀬麻里子",
+      "nameJa": "長瀬麻里子",
+      "club": "杏友会",
+      "points": 3528.5
+    },
+    {
+      "rank": 123,
+      "name": "奥村優香",
+      "nameJa": "奥村優香",
+      "club": "名椙OLC",
+      "points": 3508.2
+    },
+    {
+      "rank": 124,
+      "name": "番場洋子",
+      "nameJa": "番場洋子",
+      "club": "-",
+      "points": 3415.9
+    },
+    {
+      "rank": 125,
+      "name": "香取瑞穂",
+      "nameJa": "香取瑞穂",
+      "club": "京葉OLクラブ",
+      "points": 3408.4
+    },
+    {
+      "rank": 126,
+      "name": "重吉未来子",
+      "nameJa": "重吉未来子",
+      "club": "大阪OLC",
+      "points": 3355.1
+    },
+    {
+      "rank": 127,
+      "name": "加納尚子",
+      "nameJa": "加納尚子",
+      "club": "朱雀OK",
+      "points": 3353.5
+    },
+    {
+      "rank": 128,
+      "name": "岩城美奈",
+      "nameJa": "岩城美奈",
+      "club": "青葉会20",
+      "points": 3349.5
+    },
+    {
+      "rank": 129,
+      "name": "和田向日葵",
+      "nameJa": "和田向日葵",
+      "club": "法政大学",
+      "points": 3327.5
+    },
+    {
+      "rank": 130,
+      "name": "中森恵美子",
+      "nameJa": "中森恵美子",
+      "club": "JDOA/ES関東C",
+      "points": 3325.2
+    },
+    {
+      "rank": 131,
+      "name": "東海林雪乃",
+      "nameJa": "東海林雪乃",
+      "club": "広大OLC",
+      "points": 3291.5
+    },
+    {
+      "rank": 132,
+      "name": "成田美奈子",
+      "nameJa": "成田美奈子",
+      "club": "入間市OLC",
+      "points": 3279.8
+    },
+    {
+      "rank": 133,
+      "name": "柳田紗希",
+      "nameJa": "柳田紗希",
+      "club": "KOLC",
+      "points": 3279.3
+    },
+    {
+      "rank": 134,
+      "name": "陳子淳",
+      "nameJa": "陳子淳",
+      "club": "KOLC",
+      "points": 3205.4
+    },
+    {
+      "rank": 135,
+      "name": "中村茉菜",
+      "nameJa": "中村茉菜",
+      "club": "-",
+      "points": 3191.1
+    },
+    {
+      "rank": 136,
+      "name": "西川真由",
+      "nameJa": "西川真由",
+      "club": "ES関東C",
+      "points": 3181.1
+    },
+    {
+      "rank": 137,
+      "name": "梅基結",
+      "nameJa": "梅基結",
+      "club": "筑波大学",
+      "points": 3180.0
+    },
+    {
+      "rank": 138,
+      "name": "崎原美咲紀",
+      "nameJa": "崎原美咲紀",
+      "club": "鳩の会",
+      "points": 3086.2
+    },
+    {
+      "rank": 139,
+      "name": "栗山ももこ",
+      "nameJa": "栗山ももこ",
+      "club": "-",
+      "points": 3082.5
+    },
+    {
+      "rank": 140,
+      "name": "堀口奈保",
+      "nameJa": "堀口奈保",
+      "club": "入間市OLC/青葉会",
+      "points": 3072.7
+    },
+    {
+      "rank": 141,
+      "name": "大野栞",
+      "nameJa": "大野栞",
+      "club": "東大OLK",
+      "points": 3066.8
+    },
+    {
+      "rank": 142,
+      "name": "橘詩乃",
+      "nameJa": "橘詩乃",
+      "club": "ES関東C",
+      "points": 3055.0
+    },
+    {
+      "rank": 143,
+      "name": "TangPoWa",
+      "nameJa": "TangPoWa",
+      "club": "-",
+      "points": 3048.9
+    },
+    {
+      "rank": 144,
+      "name": "高橋友理奈",
+      "nameJa": "高橋友理奈",
+      "club": "長野県協会/青葉会",
+      "points": 3036.6
+    },
+    {
+      "rank": 145,
+      "name": "林希華",
+      "nameJa": "林希華",
+      "club": "早大OC",
+      "points": 3018.9
+    },
+    {
+      "rank": 146,
+      "name": "石槫朱莉",
+      "nameJa": "石槫朱莉",
+      "club": "東北大OLC",
+      "points": 2985.9
+    },
+    {
+      "rank": 147,
+      "name": "和田美千代",
+      "nameJa": "和田美千代",
+      "club": "サン・スーシ",
+      "points": 2984.6
+    },
+    {
+      "rank": 148,
+      "name": "高橋暖和",
+      "nameJa": "高橋暖和",
+      "club": "早大OC",
+      "points": 2983.5
+    },
+    {
+      "rank": 149,
+      "name": "吉澤諒子",
+      "nameJa": "吉澤諒子",
+      "club": "千葉大OLC",
+      "points": 2979.2
+    },
+    {
+      "rank": 150,
+      "name": "藤井香帆",
+      "nameJa": "藤井香帆",
+      "club": "名椙OLC",
+      "points": 2947.7
+    },
+    {
+      "rank": 151,
+      "name": "山嵜日菜",
+      "nameJa": "山嵜日菜",
+      "club": "北海道大学",
+      "points": 2928.9
+    },
+    {
+      "rank": 151,
+      "name": "山嵜日菜",
+      "nameJa": "山嵜日菜",
+      "club": "北海道大学",
+      "points": 2928.9
+    },
+    {
+      "rank": 152,
+      "name": "寺嶋貴美江",
+      "nameJa": "寺嶋貴美江",
+      "club": "ES関東C",
+      "points": 2922.8
+    },
+    {
+      "rank": 153,
+      "name": "田切香帆",
+      "nameJa": "田切香帆",
+      "club": "-",
+      "points": 2918.2
+    },
+    {
+      "rank": 154,
+      "name": "櫻井香帆",
+      "nameJa": "櫻井香帆",
+      "club": "椙山女学園大学 4",
+      "points": 2903.5
+    },
+    {
+      "rank": 155,
+      "name": "松塚乃愛",
+      "nameJa": "松塚乃愛",
+      "club": "お茶の水女子大学 4",
+      "points": 2879.7
+    },
+    {
+      "rank": 156,
+      "name": "上島乃英",
+      "nameJa": "上島乃英",
+      "club": "つるまいOLC",
+      "points": 2877.9
+    },
+    {
+      "rank": 157,
+      "name": "石川智花",
+      "nameJa": "石川智花",
+      "club": "京都女子大学 4",
+      "points": 2865.2
+    },
+    {
+      "rank": 158,
+      "name": "南美羽",
+      "nameJa": "南美羽",
+      "club": "千葉大学",
+      "points": 2855.7
+    },
+    {
+      "rank": 159,
+      "name": "宇野美桜",
+      "nameJa": "宇野美桜",
+      "club": "早大OC",
+      "points": 2851.4
+    },
+    {
+      "rank": 160,
+      "name": "根岸歩可",
+      "nameJa": "根岸歩可",
+      "club": "奈良女子大学 3",
+      "points": 2834.6
+    },
+    {
+      "rank": 161,
+      "name": "坂巻朱里",
+      "nameJa": "坂巻朱里",
+      "club": "ときわ走林会",
+      "points": 2827.6
+    },
+    {
+      "rank": 162,
+      "name": "渡邉莉子",
+      "nameJa": "渡邉莉子",
+      "club": "一橋大学",
+      "points": 2805.6
+    },
+    {
+      "rank": 163,
+      "name": "坂本瑠璃子",
+      "nameJa": "坂本瑠璃子",
+      "club": "龍谷大学4",
+      "points": 2765.9
+    },
+    {
+      "rank": 164,
+      "name": "源後彩乃",
+      "nameJa": "源後彩乃",
+      "club": "みちの会",
+      "points": 2740.0
+    },
+    {
+      "rank": 165,
+      "name": "村田颯香",
+      "nameJa": "村田颯香",
+      "club": "宮城学院女子大学",
+      "points": 2719.4
+    },
+    {
+      "rank": 166,
+      "name": "水谷奈那美",
+      "nameJa": "水谷奈那美",
+      "club": "名椙OLC",
+      "points": 2691.5
+    },
+    {
+      "rank": 167,
+      "name": "山下雪乃",
+      "nameJa": "山下雪乃",
+      "club": "日本女子大学",
+      "points": 2608.4
+    },
+    {
+      "rank": 168,
+      "name": "小池響",
+      "nameJa": "小池響",
+      "club": "名椙OLC",
+      "points": 2588.8
+    },
+    {
+      "rank": 169,
+      "name": "CHIANGShengJung",
+      "nameJa": "CHIANGShengJung",
+      "club": "-",
+      "points": 2565.0
+    },
+    {
+      "rank": 170,
+      "name": "岡野美希",
+      "nameJa": "岡野美希",
+      "club": "奈良女子大学 3",
+      "points": 2529.5
+    },
+    {
+      "rank": 171,
+      "name": "山田幸希",
+      "nameJa": "山田幸希",
+      "club": "お茶の水女子大学",
+      "points": 2518.5
+    },
+    {
+      "rank": 172,
+      "name": "大山美菜子",
+      "nameJa": "大山美菜子",
+      "club": "大阪大学4",
+      "points": 2504.6
+    },
+    {
+      "rank": 173,
+      "name": "LyuLi-Sin",
+      "nameJa": "LyuLi-Sin",
+      "club": "-",
+      "points": 2486.1
+    },
+    {
+      "rank": 174,
+      "name": "丹羽里歩子",
+      "nameJa": "丹羽里歩子",
+      "club": "横浜国立大学 3",
+      "points": 2473.2
+    },
+    {
+      "rank": 175,
+      "name": "田口淳子",
+      "nameJa": "田口淳子",
+      "club": "-",
+      "points": 2444.8
+    },
+    {
+      "rank": 176,
+      "name": "宮田鈴子",
+      "nameJa": "宮田鈴子",
+      "club": "東大OLK",
+      "points": 2417.8
+    },
+    {
+      "rank": 177,
+      "name": "齋藤まどか",
+      "nameJa": "齋藤まどか",
+      "club": "川越OLC",
+      "points": 2384.8
+    },
+    {
+      "rank": 178,
+      "name": "?茵",
+      "nameJa": "?茵",
+      "club": "-",
+      "points": 2346.4
+    },
+    {
+      "rank": 179,
+      "name": "岡政渚",
+      "nameJa": "岡政渚",
+      "club": "京女OLC",
+      "points": 2311.9
+    },
+    {
+      "rank": 180,
+      "name": "久保寺芭名",
+      "nameJa": "久保寺芭名",
+      "club": "横浜国立大学",
+      "points": 2308.1
+    },
+    {
+      "rank": 181,
+      "name": "井出千尋",
+      "nameJa": "井出千尋",
+      "club": "相模女子大学 4",
+      "points": 2306.8
+    },
+    {
+      "rank": 182,
+      "name": "遠藤永子",
+      "nameJa": "遠藤永子",
+      "club": "千葉大OLC",
+      "points": 2286.1
+    },
+    {
+      "rank": 183,
+      "name": "一条理央",
+      "nameJa": "一条理央",
+      "club": "十文字学園女子大学 4",
+      "points": 2116.4
+    },
+    {
+      "rank": 184,
+      "name": "尾形歩美",
+      "nameJa": "尾形歩美",
+      "club": "東大OLK",
+      "points": 2025.7
+    },
+    {
+      "rank": 185,
+      "name": "恩田佳子",
+      "nameJa": "恩田佳子",
+      "club": "津田塾大学",
+      "points": 2020.3
+    },
+    {
+      "rank": 186,
+      "name": "浦瀬香子",
+      "nameJa": "浦瀬香子",
+      "club": "ゾウガメOLK",
+      "points": 1988.5
+    },
+    {
+      "rank": 187,
+      "name": "奥田優希",
+      "nameJa": "奥田優希",
+      "club": "京都女子大学",
+      "points": 1969.3
+    },
+    {
+      "rank": 188,
+      "name": "伊部琴美",
+      "nameJa": "伊部琴美",
+      "club": "OLCルーパー",
+      "points": 1937.7
+    },
+    {
+      "rank": 189,
+      "name": "朱映柔",
+      "nameJa": "朱映柔",
+      "club": "HKIOF",
+      "points": 1840.8
+    },
+    {
+      "rank": 190,
+      "name": "小川奈菜",
+      "nameJa": "小川奈菜",
+      "club": "-",
+      "points": 1783.5
+    },
+    {
+      "rank": 191,
+      "name": "高村陽子",
+      "nameJa": "高村陽子",
+      "club": "上尾OLクラブ",
+      "points": 1777.0
+    },
+    {
+      "rank": 192,
+      "name": "世良史佳",
+      "nameJa": "世良史佳",
+      "club": "入間市OLC",
+      "points": 1762.1
+    },
+    {
+      "rank": 193,
+      "name": "林弱水",
+      "nameJa": "林弱水",
+      "club": "-",
+      "points": 1751.9
+    },
+    {
+      "rank": 194,
+      "name": "カリナマリア",
+      "nameJa": "カリナマリア",
+      "club": "BEST OC",
+      "points": 1695.5
+    },
+    {
+      "rank": 195,
+      "name": "山岸夏希",
+      "nameJa": "山岸夏希",
+      "club": "桐嶺会/みちの会",
+      "points": 1689.0
+    },
+    {
+      "rank": 196,
+      "name": "谷川理恵",
+      "nameJa": "谷川理恵",
+      "club": "京都OLC",
+      "points": 1688.5
+    },
+    {
+      "rank": 197,
+      "name": "根本莉子",
+      "nameJa": "根本莉子",
+      "club": "KOLC",
+      "points": 1681.4
+    },
+    {
+      "rank": 198,
+      "name": "久保田結理",
+      "nameJa": "久保田結理",
+      "club": "東北大学",
+      "points": 1671.1
+    },
+    {
+      "rank": 199,
+      "name": "吉岡実沙音",
+      "nameJa": "吉岡実沙音",
+      "club": "早稲田大学",
+      "points": 1663.6
+    },
+    {
+      "rank": 200,
+      "name": "平澤葵",
+      "nameJa": "平澤葵",
+      "club": "トータス/方向音痴会",
+      "points": 1637.8
+    },
+    {
+      "rank": 201,
+      "name": "河野珠里亜",
+      "nameJa": "河野珠里亜",
+      "club": "越王会/長岡OLC",
+      "points": 1632.7
+    },
+    {
+      "rank": 201,
+      "name": "河野珠里亜",
+      "nameJa": "河野珠里亜",
+      "club": "越王会/長岡OLC",
+      "points": 1632.7
+    },
+    {
+      "rank": 202,
+      "name": "水嶋直子",
+      "nameJa": "水嶋直子",
+      "club": "入間市OLC/渋谷で走る会",
+      "points": 1629.1
+    },
+    {
+      "rank": 203,
+      "name": "藤井春菜",
+      "nameJa": "藤井春菜",
+      "club": "札幌OLC/札幌農学校",
+      "points": 1626.8
+    },
+    {
+      "rank": 204,
+      "name": "宮津奈緒美",
+      "nameJa": "宮津奈緒美",
+      "club": "青葉会20",
+      "points": 1615.7
+    },
+    {
+      "rank": 205,
+      "name": "手塚雛姫",
+      "nameJa": "手塚雛姫",
+      "club": "東北大OLC",
+      "points": 1613.9
+    },
+    {
+      "rank": 206,
+      "name": "濱田美咲妃",
+      "nameJa": "濱田美咲妃",
+      "club": "早大OC",
+      "points": 1613.9
+    },
+    {
+      "rank": 207,
+      "name": "上原珠美",
+      "nameJa": "上原珠美",
+      "club": "京都OLC/くまのOLC",
+      "points": 1613.0
+    },
+    {
+      "rank": 208,
+      "name": "横井里乃",
+      "nameJa": "横井里乃",
+      "club": "静岡OLC",
+      "points": 1606.0
+    },
+    {
+      "rank": 209,
+      "name": "尾本絢子",
+      "nameJa": "尾本絢子",
+      "club": "北海道大学",
+      "points": 1603.7
+    },
+    {
+      "rank": 210,
+      "name": "盛合美誉",
+      "nameJa": "盛合美誉",
+      "club": "じゃじゃじゃOC",
+      "points": 1600.5
+    },
+    {
+      "rank": 211,
+      "name": "美濃部康世",
+      "nameJa": "美濃部康世",
+      "club": "渋谷で走る会",
+      "points": 1595.1
+    },
+    {
+      "rank": 212,
+      "name": "井上千帆里",
+      "nameJa": "井上千帆里",
+      "club": "-",
+      "points": 1586.6
+    },
+    {
+      "rank": 213,
+      "name": "梅本咲希",
+      "nameJa": "梅本咲希",
+      "club": "静岡大学2",
+      "points": 1583.6
+    },
+    {
+      "rank": 214,
+      "name": "高梨史重",
+      "nameJa": "高梨史重",
+      "club": "相模女子大学",
+      "points": 1581.3
+    },
+    {
+      "rank": 215,
+      "name": "坂池なつほ",
+      "nameJa": "坂池なつほ",
+      "club": "桐嶺会/トータス",
+      "points": 1577.1
+    },
+    {
+      "rank": 216,
+      "name": "香取菜穂",
+      "nameJa": "香取菜穂",
+      "club": "鳩の会/京葉OLクラブ",
+      "points": 1575.9
+    },
+    {
+      "rank": 217,
+      "name": "西名紗織",
+      "nameJa": "西名紗織",
+      "club": "ときわ走林会/桐嶺会",
+      "points": 1575.0
+    },
+    {
+      "rank": 218,
+      "name": "朝間璃衣紗",
+      "nameJa": "朝間璃衣紗",
+      "club": "ES関東C",
+      "points": 1572.9
+    },
+    {
+      "rank": 219,
+      "name": "小倉歩実",
+      "nameJa": "小倉歩実",
+      "club": "早大OC",
+      "points": 1567.4
+    },
+    {
+      "rank": 220,
+      "name": "渡邉すず",
+      "nameJa": "渡邉すず",
+      "club": "北大OLC",
+      "points": 1557.2
+    },
+    {
+      "rank": 221,
+      "name": "岡本ひなの",
+      "nameJa": "岡本ひなの",
+      "club": "OLP兵庫",
+      "points": 1553.9
+    },
+    {
+      "rank": 222,
+      "name": "松崎唯子",
+      "nameJa": "松崎唯子",
+      "club": "法政大学",
+      "points": 1545.8
+    },
+    {
+      "rank": 223,
+      "name": "奥村友香",
+      "nameJa": "奥村友香",
+      "club": "大阪大学3",
+      "points": 1540.1
+    },
+    {
+      "rank": 224,
+      "name": "石井百花",
+      "nameJa": "石井百花",
+      "club": "OLP兵庫",
+      "points": 1535.0
+    },
+    {
+      "rank": 225,
+      "name": "奈良崎有香",
+      "nameJa": "奈良崎有香",
+      "club": "横浜国立大学 4",
+      "points": 1533.1
+    },
+    {
+      "rank": 226,
+      "name": "小川紗愛",
+      "nameJa": "小川紗愛",
+      "club": "椙山女学園大学2",
+      "points": 1533.1
+    },
+    {
+      "rank": 227,
+      "name": "吉田しのぶ",
+      "nameJa": "吉田しのぶ",
+      "club": "ワンダラーズ",
+      "points": 1527.9
+    },
+    {
+      "rank": 228,
+      "name": "三好暢子",
+      "nameJa": "三好暢子",
+      "club": "上尾OLC",
+      "points": 1525.8
+    },
+    {
+      "rank": 229,
+      "name": "浦中美里",
+      "nameJa": "浦中美里",
+      "club": "ES関東C",
+      "points": 1525.6
+    },
+    {
+      "rank": 230,
+      "name": "佐藤千尋",
+      "nameJa": "佐藤千尋",
+      "club": "青葉会21",
+      "points": 1524.2
+    },
+    {
+      "rank": 231,
+      "name": "大栗由希",
+      "nameJa": "大栗由希",
+      "club": "ときわ走林会",
+      "points": 1522.2
+    },
+    {
+      "rank": 232,
+      "name": "荘珮琪",
+      "nameJa": "荘珮琪",
+      "club": "台湾魔神",
+      "points": 1515.2
+    },
+    {
+      "rank": 233,
+      "name": "清水容子",
+      "nameJa": "清水容子",
+      "club": "-",
+      "points": 1512.6
+    },
+    {
+      "rank": 234,
+      "name": "藤田真央",
+      "nameJa": "藤田真央",
+      "club": "奈良女子大学 4",
+      "points": 1509.2
+    },
+    {
+      "rank": 235,
+      "name": "酒井佳子",
+      "nameJa": "酒井佳子",
+      "club": "札幌農学校",
+      "points": 1500.5
+    },
+    {
+      "rank": 236,
+      "name": "関和小菊",
+      "nameJa": "関和小菊",
+      "club": "一橋大学",
+      "points": 1499.5
+    },
+    {
+      "rank": 237,
+      "name": "宮川葵衣",
+      "nameJa": "宮川葵衣",
+      "club": "練馬OLC",
+      "points": 1490.4
+    },
+    {
+      "rank": 238,
+      "name": "高橋ひなの",
+      "nameJa": "高橋ひなの",
+      "club": "青葉会15",
+      "points": 1485.6
+    },
+    {
+      "rank": 239,
+      "name": "福原優果",
+      "nameJa": "福原優果",
+      "club": "広大OLC",
+      "points": 1482.2
+    },
+    {
+      "rank": 240,
+      "name": "松村穂咲奈",
+      "nameJa": "松村穂咲奈",
+      "club": "筑波大学",
+      "points": 1480.9
+    },
+    {
+      "rank": 241,
+      "name": "羽石笑佳",
+      "nameJa": "羽石笑佳",
+      "club": "新潟大学",
+      "points": 1479.0
+    },
+    {
+      "rank": 242,
+      "name": "藤若柚寿",
+      "nameJa": "藤若柚寿",
+      "club": "奈良女子大学 4",
+      "points": 1473.4
+    },
+    {
+      "rank": 243,
+      "name": "近藤久美",
+      "nameJa": "近藤久美",
+      "club": "同志社大学 3",
+      "points": 1472.4
+    },
+    {
+      "rank": 244,
+      "name": "松尾奏樂",
+      "nameJa": "松尾奏樂",
+      "club": "東北大学 2",
+      "points": 1467.2
+    },
+    {
+      "rank": 245,
+      "name": "渡邊絵万",
+      "nameJa": "渡邊絵万",
+      "club": "金大OLC",
+      "points": 1453.9
+    },
+    {
+      "rank": 246,
+      "name": "針生佳奈",
+      "nameJa": "針生佳奈",
+      "club": "京葉OLクラブ",
+      "points": 1451.2
+    },
+    {
+      "rank": 247,
+      "name": "坂林千紘",
+      "nameJa": "坂林千紘",
+      "club": "慶應義塾大学 2",
+      "points": 1443.8
+    },
+    {
+      "rank": 248,
+      "name": "石榑朱莉",
+      "nameJa": "石榑朱莉",
+      "club": "東北大学 3",
+      "points": 1441.7
+    },
+    {
+      "rank": 249,
+      "name": "高瀬真緒",
+      "nameJa": "高瀬真緒",
+      "club": "千葉大OLC",
+      "points": 1440.1
+    },
+    {
+      "rank": 250,
+      "name": "内木睦",
+      "nameJa": "内木睦",
+      "club": "津田塾大学",
+      "points": 1421.8
+    },
+    {
+      "rank": 251,
+      "name": "稲邊穂乃香",
+      "nameJa": "稲邊穂乃香",
+      "club": "-",
+      "points": 1417.9
+    },
+    {
+      "rank": 251,
+      "name": "稲邊穂乃香",
+      "nameJa": "稲邊穂乃香",
+      "club": "-",
+      "points": 1417.9
+    },
+    {
+      "rank": 252,
+      "name": "門井愛子",
+      "nameJa": "門井愛子",
+      "club": "京都女子大学3",
+      "points": 1415.9
+    },
+    {
+      "rank": 253,
+      "name": "浦川沙耶佳",
+      "nameJa": "浦川沙耶佳",
+      "club": "筑波大学",
+      "points": 1414.9
+    },
+    {
+      "rank": 254,
+      "name": "飛田優",
+      "nameJa": "飛田優",
+      "club": "大阪大学",
+      "points": 1407.4
+    },
+    {
+      "rank": 255,
+      "name": "村上瑠璃",
+      "nameJa": "村上瑠璃",
+      "club": "立命館大学3",
+      "points": 1390.0
+    },
+    {
+      "rank": 256,
+      "name": "成澤美侑",
+      "nameJa": "成澤美侑",
+      "club": "東北大学 2",
+      "points": 1384.9
+    },
+    {
+      "rank": 257,
+      "name": "町田千優",
+      "nameJa": "町田千優",
+      "club": "お茶の水女子大学",
+      "points": 1384.4
+    },
+    {
+      "rank": 258,
+      "name": "矢倉美励",
+      "nameJa": "矢倉美励",
+      "club": "鳩の会",
+      "points": 1377.8
+    },
+    {
+      "rank": 259,
+      "name": "木本円花",
+      "nameJa": "木本円花",
+      "club": "札幌農学校",
+      "points": 1373.5
+    },
+    {
+      "rank": 260,
+      "name": "桂万由子",
+      "nameJa": "桂万由子",
+      "club": "千葉大学",
+      "points": 1359.5
+    },
+    {
+      "rank": 261,
+      "name": "齊藤由楽",
+      "nameJa": "齊藤由楽",
+      "club": "早稲田大学",
+      "points": 1353.3
+    },
+    {
+      "rank": 262,
+      "name": "圷菜緒",
+      "nameJa": "圷菜緒",
+      "club": "北大OLC",
+      "points": 1351.3
+    },
+    {
+      "rank": 263,
+      "name": "西村帆浬",
+      "nameJa": "西村帆浬",
+      "club": "奈良女OLC",
+      "points": 1349.3
+    },
+    {
+      "rank": 264,
+      "name": "亀田万葉",
+      "nameJa": "亀田万葉",
+      "club": "東大OLK",
+      "points": 1343.1
+    },
+    {
+      "rank": 265,
+      "name": "松本和佳",
+      "nameJa": "松本和佳",
+      "club": "同志社大学 2",
+      "points": 1333.7
+    },
+    {
+      "rank": 266,
+      "name": "大神田さくら",
+      "nameJa": "大神田さくら",
+      "club": "千葉大学",
+      "points": 1331.0
+    },
+    {
+      "rank": 267,
+      "name": "田中紅音",
+      "nameJa": "田中紅音",
+      "club": "ES関東C",
+      "points": 1321.5
+    },
+    {
+      "rank": 268,
+      "name": "直井萌香",
+      "nameJa": "直井萌香",
+      "club": "KOLA",
+      "points": 1321.3
+    },
+    {
+      "rank": 269,
+      "name": "吉田真紘",
+      "nameJa": "吉田真紘",
+      "club": "名古屋大学 2",
+      "points": 1318.4
+    },
+    {
+      "rank": 270,
+      "name": "早川菜都",
+      "nameJa": "早川菜都",
+      "club": "相模女子大学",
+      "points": 1298.9
+    },
+    {
+      "rank": 271,
+      "name": "友田りさ",
+      "nameJa": "友田りさ",
+      "club": "筑波大学",
+      "points": 1296.7
+    },
+    {
+      "rank": 272,
+      "name": "小林若菜",
+      "nameJa": "小林若菜",
+      "club": "北大OLC",
+      "points": 1296.3
+    },
+    {
+      "rank": 273,
+      "name": "酒井香綸",
+      "nameJa": "酒井香綸",
+      "club": "千葉大学 2",
+      "points": 1296.2
+    },
+    {
+      "rank": 274,
+      "name": "宮井沙絵",
+      "nameJa": "宮井沙絵",
+      "club": "奈良女子大学 4",
+      "points": 1280.6
+    },
+    {
+      "rank": 275,
+      "name": "千葉愛莉",
+      "nameJa": "千葉愛莉",
+      "club": "宮城学院女子大学",
+      "points": 1279.3
+    },
+    {
+      "rank": 276,
+      "name": "菅原美智子",
+      "nameJa": "菅原美智子",
+      "club": "つるまいOLC",
+      "points": 1275.4
+    },
+    {
+      "rank": 277,
+      "name": "坂間みく",
+      "nameJa": "坂間みく",
+      "club": "-",
+      "points": 1271.1
+    },
+    {
+      "rank": 278,
+      "name": "浅井瑠那",
+      "nameJa": "浅井瑠那",
+      "club": "名椙OLC",
+      "points": 1264.6
+    },
+    {
+      "rank": 279,
+      "name": "泉田みどり",
+      "nameJa": "泉田みどり",
+      "club": "入間市OLC",
+      "points": 1260.7
+    },
+    {
+      "rank": 280,
+      "name": "加藤涼子",
+      "nameJa": "加藤涼子",
+      "club": "-",
+      "points": 1258.3
+    },
+    {
+      "rank": 281,
+      "name": "西川そら",
+      "nameJa": "西川そら",
+      "club": "福島大学",
+      "points": 1257.3
+    },
+    {
+      "rank": 282,
+      "name": "猪股紗如",
+      "nameJa": "猪股紗如",
+      "club": "名護市/鳩の会",
+      "points": 1252.5
+    },
+    {
+      "rank": 283,
+      "name": "齋藤美咲",
+      "nameJa": "齋藤美咲",
+      "club": "千葉大学",
+      "points": 1241.0
+    },
+    {
+      "rank": 284,
+      "name": "尾形咲穂",
+      "nameJa": "尾形咲穂",
+      "club": "北大OLC",
+      "points": 1217.9
+    },
+    {
+      "rank": 285,
+      "name": "山下琉奈",
+      "nameJa": "山下琉奈",
+      "club": "千葉大学",
+      "points": 1216.3
+    },
+    {
+      "rank": 286,
+      "name": "加藤里菜子",
+      "nameJa": "加藤里菜子",
+      "club": "-",
+      "points": 1193.5
+    },
+    {
+      "rank": 287,
+      "name": "LiHeidi",
+      "nameJa": "LiHeidi",
+      "club": "-",
+      "points": 1188.4
+    },
+    {
+      "rank": 288,
+      "name": "吉村菜那美",
+      "nameJa": "吉村菜那美",
+      "club": "椙山女学園大学 2",
+      "points": 1185.5
+    },
+    {
+      "rank": 289,
+      "name": "寺本遊林",
+      "nameJa": "寺本遊林",
+      "club": "KOLA",
+      "points": 1185.0
+    },
+    {
+      "rank": 290,
+      "name": "山崎春風",
+      "nameJa": "山崎春風",
+      "club": "日本女子大学 2",
+      "points": 1184.0
+    },
+    {
+      "rank": 291,
+      "name": "大慈彌陽翠",
+      "nameJa": "大慈彌陽翠",
+      "club": "日本女子大学",
+      "points": 1152.6
+    },
+    {
+      "rank": 292,
+      "name": "西野楓香",
+      "nameJa": "西野楓香",
+      "club": "奈良女子大学 4",
+      "points": 1152.1
+    },
+    {
+      "rank": 293,
+      "name": "村越久子",
+      "nameJa": "村越久子",
+      "club": "静岡OLC",
+      "points": 1150.0
+    },
+    {
+      "rank": 294,
+      "name": "竹内碧彩",
+      "nameJa": "竹内碧彩",
+      "club": "奈良女OLC",
+      "points": 1149.8
+    },
+    {
+      "rank": 295,
+      "name": "八島多佳子",
+      "nameJa": "八島多佳子",
+      "club": "宮城学院女子大学",
+      "points": 1138.4
+    },
+    {
+      "rank": 296,
+      "name": "金柿実日子",
+      "nameJa": "金柿実日子",
+      "club": "奈良女子大学 2",
+      "points": 1127.1
+    },
+    {
+      "rank": 297,
+      "name": "園山美衣奈",
+      "nameJa": "園山美衣奈",
+      "club": "奈良女子大学 2",
+      "points": 1105.7
+    },
+    {
+      "rank": 298,
+      "name": "青山祥子",
+      "nameJa": "青山祥子",
+      "club": "大阪大学4",
+      "points": 1103.8
+    },
+    {
+      "rank": 299,
+      "name": "氏家敦子",
+      "nameJa": "氏家敦子",
+      "club": "つるまいOLC",
+      "points": 1081.7
+    },
+    {
+      "rank": 300,
+      "name": "佐久間千恵子",
+      "nameJa": "佐久間千恵子",
+      "club": "博多OLC",
+      "points": 1060.4
+    },
+    {
+      "rank": 301,
+      "name": "佐藤葉月",
+      "nameJa": "佐藤葉月",
+      "club": "椙山女学園大学 2",
+      "points": 1056.9
+    },
+    {
+      "rank": 301,
+      "name": "佐藤葉月",
+      "nameJa": "佐藤葉月",
+      "club": "椙山女学園大学 2",
+      "points": 1056.9
+    },
+    {
+      "rank": 302,
+      "name": "重吉芽衣",
+      "nameJa": "重吉芽衣",
+      "club": "-",
+      "points": 1046.8
+    },
+    {
+      "rank": 303,
+      "name": "宮崎麻実",
+      "nameJa": "宮崎麻実",
+      "club": "津田塾大学",
+      "points": 1045.1
+    },
+    {
+      "rank": 304,
+      "name": "池藍",
+      "nameJa": "池藍",
+      "club": "OLCルーパー",
+      "points": 1034.9
+    },
+    {
+      "rank": 305,
+      "name": "小山真鈴",
+      "nameJa": "小山真鈴",
+      "club": "奈良女子大学4",
+      "points": 1030.4
+    },
+    {
+      "rank": 306,
+      "name": "笛木典子",
+      "nameJa": "笛木典子",
+      "club": "西蒲OC",
+      "points": 1011.8
+    },
+    {
+      "rank": 307,
+      "name": "かせ谷美帆",
+      "nameJa": "かせ谷美帆",
+      "club": "大阪大学1",
+      "points": 997.7
+    },
+    {
+      "rank": 308,
+      "name": "井上悠生",
+      "nameJa": "井上悠生",
+      "club": "名椙OLC",
+      "points": 996.6
+    },
+    {
+      "rank": 309,
+      "name": "佐塚由香",
+      "nameJa": "佐塚由香",
+      "club": "札幌農学校",
+      "points": 973.5
+    },
+    {
+      "rank": 310,
+      "name": "高島恵美子",
+      "nameJa": "高島恵美子",
+      "club": "-",
+      "points": 970.2
+    },
+    {
+      "rank": 311,
+      "name": "白鳥桂子",
+      "nameJa": "白鳥桂子",
+      "club": "水篶刈",
+      "points": 944.5
+    },
+    {
+      "rank": 312,
+      "name": "田中晴菜",
+      "nameJa": "田中晴菜",
+      "club": "宮城学院女子大学 2",
+      "points": 937.9
+    },
+    {
+      "rank": 313,
+      "name": "山添弥生",
+      "nameJa": "山添弥生",
+      "club": "京都女子大学 2",
+      "points": 924.8
+    },
+    {
+      "rank": 314,
+      "name": "木村光里",
+      "nameJa": "木村光里",
+      "club": "東京科学大学",
+      "points": 917.0
+    },
+    {
+      "rank": 315,
+      "name": "朝賀せり乃",
+      "nameJa": "朝賀せり乃",
+      "club": "椙山女学園大学 2",
+      "points": 912.5
+    },
+    {
+      "rank": 316,
+      "name": "鈴木聡実",
+      "nameJa": "鈴木聡実",
+      "club": "東北大学",
+      "points": 908.9
+    },
+    {
+      "rank": 317,
+      "name": "砂川七海",
+      "nameJa": "砂川七海",
+      "club": "早大OC",
+      "points": 891.7
+    },
+    {
+      "rank": 318,
+      "name": "川原陽子",
+      "nameJa": "川原陽子",
+      "club": "千葉大学",
+      "points": 855.6
+    },
+    {
+      "rank": 319,
+      "name": "大塚羽菜",
+      "nameJa": "大塚羽菜",
+      "club": "-",
+      "points": 688.2
+    }
+  ]
+}
